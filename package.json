@@ -1,0 +1,20 @@
+{
+  "name": "amazon-reviews-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Amazon Reviews Scraper: Scrape Amazon product reviews by ASIN or URL: rating, title, text, date, verified purchase and helpful votes. No login needed. Export to JSON, CSV or Excel.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "amazon"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}

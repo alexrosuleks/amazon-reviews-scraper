@@ -1,0 +1,20 @@
+{
+  "productUrls": [
+    {
+      "url": "https://www.amazon.com/dp/B0CWXNS552"
+    }
+  ],
+  "maxReviews": 10,
+  "sort": "helpful",
+  "filterByRatings": [
+    "allStars"
+  ],
+  "includeGdprSensitive": false,
+  "reviewsUseProductVariantFilter": false,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
